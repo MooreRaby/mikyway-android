@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1045035144020",
+    "project_id": "mikiway-5e0ca",
+    "storage_bucket": "mikiway-5e0ca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1045035144020:android:897e4dec13c767a8cb6ec1",
+        "android_client_info": {
+          "package_name": "net.pro.mikiway"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeGXlhfN1OM0SlGi20bUxeVqfZNp5DM9I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,18 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Mikiway" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/light_yellow</item>
+        <item name="colorAccent">@color/orange</item>
+
+        <item name="android:statusBarColor">@color/orange</item>
+        <item name="colorPrimaryVariant">@color/orange</item>
+        <item name="itemFillColor">@color/white</item>
+        <item name="itemIconTint">@color/white</item>
+    </style>
+
+    <style name="rounded_corner">
+        <item name="cornerSize">20dp</item>
+    </style>
+
+    <style name="Theme.Mikiway" parent="Base.Theme.Mikiway" />
+</resources>
